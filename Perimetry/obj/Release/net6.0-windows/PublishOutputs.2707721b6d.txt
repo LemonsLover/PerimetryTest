@@ -1,0 +1,5 @@
+D:\Projects\Perimetry\Perimetry\bin\Release\net6.0-windows\publish\Perimetry.exe
+D:\Projects\Perimetry\Perimetry\bin\Release\net6.0-windows\publish\Perimetry.dll
+D:\Projects\Perimetry\Perimetry\bin\Release\net6.0-windows\publish\Perimetry.deps.json
+D:\Projects\Perimetry\Perimetry\bin\Release\net6.0-windows\publish\Perimetry.runtimeconfig.json
+D:\Projects\Perimetry\Perimetry\bin\Release\net6.0-windows\publish\Perimetry.pdb
